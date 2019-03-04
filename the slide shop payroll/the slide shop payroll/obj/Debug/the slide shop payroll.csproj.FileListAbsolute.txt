@@ -1,0 +1,9 @@
+C:\Users\Administrator\Documents\SharpDevelop Projects\the slide shop payroll\the slide shop payroll\bin\Debug\the slide shop payroll.exe.config
+C:\Users\Administrator\Documents\SharpDevelop Projects\the slide shop payroll\the slide shop payroll\bin\Debug\the slide shop payroll.exe
+C:\Users\Administrator\Documents\SharpDevelop Projects\the slide shop payroll\the slide shop payroll\bin\Debug\the slide shop payroll.pdb
+C:\Users\Administrator\Documents\SharpDevelop Projects\the slide shop payroll\the slide shop payroll\obj\Debug\the slide shop payroll.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\SharpDevelop Projects\the slide shop payroll\the slide shop payroll\obj\Debug\the_slide_shop_payroll.MainForm.resources
+C:\Users\Administrator\Documents\SharpDevelop Projects\the slide shop payroll\the slide shop payroll\obj\Debug\the slide shop payroll.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\SharpDevelop Projects\the slide shop payroll\the slide shop payroll\obj\Debug\the slide shop payroll.exe
+C:\Users\Administrator\Documents\SharpDevelop Projects\the slide shop payroll\the slide shop payroll\obj\Debug\the slide shop payroll.pdb
+C:\Users\Administrator\Documents\SharpDevelop Projects\the slide shop payroll\the slide shop payroll\bin\Debug\WebCam_Capture.dll
